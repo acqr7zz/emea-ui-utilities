@@ -1,0 +1,15 @@
+.mainContainer {
+    /* Align the tabs to the top left */
+    text-align: left;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
+  /* If you're using Bootstrap's grid system, ensure the container doesn't center the content */
+  .container {
+    max-width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+  }
